@@ -1,5 +1,7 @@
+# Horacio Zenteno Mi Portafolio de Codigo de Software 👋
 ### Hi there 👋 My name is Horacio Zenteno 
-<!--
+
+Here are some ideas to get you started:
 📚 Estudió Ingeniería de Sistemas en la UPDS(Universidad Privada Domingo Savio)
 ➡️ Materias aprobadas
 ✔️Hardware & Software 
@@ -8,14 +10,14 @@
 
 **HoracioZZ/HoracioZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 Estudio ingenieria en sistemas en la UPDS(Universidad Privada Domingo Savio) ...
 - 🌱 Estoy aprendiendo programacion basica ...
 - 👯 Realizo ensamblaje de computadoras  ...
-- 🤔  ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
